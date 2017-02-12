@@ -1,0 +1,1168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"total",
+				"totalReduction"
+			],
+			[
+				"overa",
+				"overageHours"
+			],
+			[
+				"work",
+				"workingDaysInRange"
+			],
+			[
+				"assign",
+				"assignmentLengthInMonths"
+			],
+			[
+				"end",
+				"endDatePlusOne"
+			],
+			[
+				"Timesh",
+				"TimesheetEntry"
+			],
+			[
+				"remain",
+				"remainingBudgetHigh"
+			],
+			[
+				"projec",
+				"projectRevenue"
+			],
+			[
+				"start",
+				"startOfPlannedIncome"
+			],
+			[
+				"crea",
+				"createExpense"
+			],
+			[
+				"toal",
+				"totalOutsourced"
+			],
+			[
+				"Pay",
+				"PayrollEntry"
+			],
+			[
+				"timeshe",
+				"timesheet_entries"
+			],
+			[
+				"toda",
+				"todaySqlFormat"
+			],
+			[
+				"payP",
+				"payPeriodFrequency"
+			],
+			[
+				"pay",
+				"payperiod_start"
+			],
+			[
+				"st",
+				"startingBalance"
+			],
+			[
+				"Cash",
+				"CashFlowPlanEntry"
+			],
+			[
+				"billin",
+				"billingFrequencies"
+			],
+			[
+				"displa",
+				"displayStatus"
+			],
+			[
+				"manger",
+				"manager_id"
+			],
+			[
+				"bank",
+				"bank_account_type"
+			],
+			[
+				"mange",
+				"managerProfile"
+			],
+			[
+				"emplo",
+				"employeeProfile"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"Scaff",
+				"ScaffoldAnyEdit"
+			],
+			[
+				"createP",
+				"createPayrollPeriodForTenant"
+			],
+			[
+				"possibl",
+				"possibleBillableHours"
+			],
+			[
+				"nonbilledAn",
+				"nonbilledAndNotPaidHours"
+			],
+			[
+				"possi",
+				"possibleBillableHours"
+			],
+			[
+				"non",
+				"nonbilledActualCost"
+			],
+			[
+				"un",
+				"unbilledHours"
+			],
+			[
+				"unbil",
+				"unbilledAmount"
+			],
+			[
+				"bill",
+				"daily_billable_hours"
+			],
+			[
+				"endDa",
+				"endDateSQL"
+			],
+			[
+				"endD",
+				"endDateSQL"
+			],
+			[
+				"getE",
+				"getEmployeeData"
+			],
+			[
+				"startD",
+				"startDateSQL"
+			],
+			[
+				"en",
+				"endDateSQL"
+			],
+			[
+				"getEmp",
+				"getAllEmployeeData"
+			],
+			[
+				"empl",
+				"employeeId"
+			],
+			[
+				"HOU",
+				"HOURS_PER_YEAR"
+			],
+			[
+				"HOURS_",
+				"HOURS_PER_MONTH"
+			],
+			[
+				"hour",
+				"hourlyRate"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"acc",
+				"accountName"
+			],
+			[
+				"inv",
+				"invoiceEnd"
+			],
+			[
+				"getIn",
+				"getInvoiceMonths"
+			],
+			[
+				"invoi",
+				"invoiceMonths"
+			],
+			[
+				"tnea",
+				"tenantId"
+			],
+			[
+				"send",
+				"sendTimesheetRemindersForTenant"
+			],
+			[
+				"ADm",
+				"adminRole"
+			],
+			[
+				"wf",
+				"workforce"
+			],
+			[
+				"RESTcontro",
+				"RESTController"
+			],
+			[
+				"compa",
+				"companyResource"
+			],
+			[
+				"getR",
+				"getRelatedClass"
+			],
+			[
+				"employ",
+				"employeeCost"
+			],
+			[
+				"appl",
+				"applyACLToModel"
+			],
+			[
+				"find",
+				"findUnauthorizedFields"
+			],
+			[
+				"admin",
+				"adminSettings"
+			],
+			[
+				"scaffold",
+				"scaffoldSettings"
+			],
+			[
+				"Time",
+				"TimesheetEntry"
+			],
+			[
+				"defaul",
+				"defaultValue"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"date",
+				"dateDisplay"
+			],
+			[
+				"invoiceLink",
+				"invoiceLinkEnd"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.controller.js",
+			"settings":
+			{
+				"buffer_size": 20310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.html",
+			"settings":
+			{
+				"buffer_size": 33786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/v4/src/app/core/directives/ms-navigation/ms-navigation.directive.js",
+			"settings":
+			{
+				"buffer_size": 43705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.module.js",
+			"settings":
+			{
+				"buffer_size": 1155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/v4/src/app/core/services/ms-api.provider.js",
+			"settings":
+			{
+				"buffer_size": 7380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1451 files for \"ng-scope\"\n\n/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/components/material-docs/layout/layout-introduction.tmpl.html:\n  292      <div>\n  293  \n  294:       <div class=\"ng-scope layout-row\">\n  295  \n  296          <div class=\"flex\">First item in row</div>\n  ...\n  298  \n  299        </div>\n  300:       <div class=\"ng-scope layout-column\">\n  301  \n  302          <div class=\"flex-33\">First item in column</div>\n\n2 matches in 1 file\n\n\nSearching 0 files for \"'\"\n\n0 matches\n\nSearching 0 files for \"'\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "public/v3/app/lib/RESTController.js",
+			"settings":
+			{
+				"buffer_size": 4843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/api/CompanyController.php",
+			"settings":
+			{
+				"buffer_size": 5551,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cl2/src/fusepath/trunk",
+		"/Users/cl2/src/fusepath/trunk/app",
+		"/Users/cl2/src/fusepath/trunk/public",
+		"/Users/cl2/src/fusepath/trunk/public/v3",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/lib"
+	],
+	"file_history":
+	[
+		"/Users/cl2/src/fusepath/trunk/public/ui/gulp/styles.js",
+		"/Users/cl2/src/fusepath/trunk/app/models/Client.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/APIController.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/ClientController.php",
+		"/Users/cl2/src/fusepath/trunk/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/BaseController.php",
+		"/Users/cl2/src/fusepath/trunk/app/routes.php",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/login/login.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/login/login.scss",
+		"/Users/cl2/src/fusepath/trunk/app/database/migrations/2016_06_27_015406_v4.php",
+		"/Users/cl2/src/fusepath/trunk/app/database/migrations/2015_12_23_114635_create_company_user_table.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/Profile.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/AuthenticationController.php",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/dashboards/project/dashboard-project.html",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/TenantController.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/DashboardController.php",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/login/login.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/auth.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/index.run.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/toolbar/toolbar.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/toolbar/layouts/vertical-navigation/toolbar.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-info-bar/ms-info-bar.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/modules/auth/service/AuthService.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/gulp/server.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/gulp/server.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/config/config.router.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/toolbar/layouts/horizontal-navigation/toolbar.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-stepper/ms-stepper.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-timeline/ms-timeline.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/index.route.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/hr/staff/staff.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/hr/staff/staff.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/login/i18n/en.json",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/hr/staff/staff.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/ui/main.ui.scss",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/ui/typography/typography.scss",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/pages/auth/login/login.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/login.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/index.api.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/auth/auth.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/bower.json",
+		"/Users/cl2/src/fusepath/trunk/public/v4/bower_components/angular-permission/dist/angular-permission-ui.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/core.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/vendor/angular/angular-permission/angular-permission.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/bower_components/angular-permission/dist/angular-permission.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/package.json",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/lib/util.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/lib/directives.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/workforce/modules/staff/controller/EmployeeController.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/apps/contacts/contacts.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/theme-options/theme-options.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/lib/helpers.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/modules/base/filters/intCurrency.js",
+		"/Users/cl2/src/fusepath/trunk/public/v3/app/modules/ui/directives/app-directives.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/core/theme-options/theme-options.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/dashboards/project/dashboard-project.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-sidenav-helper/ms-sidenav-helper.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-masonry/ms-masonry.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/index.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/scss/partials/layouts-page.scss",
+		"/Users/cl2/src/fusepath/trunk/public/ui/bower.json",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/services/ms-api.provider.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/data/sample/employees.json",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/dashboards/project/dashboard-project.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/services/ms-utils.service.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/core/directives/ms-navigation/ms-navigation.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/index.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/hr/staff.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/main.controller.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/dashboards/dashboards.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/billing/billing.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/finance/finance.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/hr/hr.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/dashboards/analytics/dashboard-analytics.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/desk/desk.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/navigation/layouts/vertical-navigation/navigation.html",
+		"/Users/cl2/src/fusepath/trunk/public/v4/src/app/main/admin/admin.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/dashboards.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/index.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/core/directives/ms-navigation/ms-navigation.directive.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/main/desk/dashboards/dashboards.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/main/auth/auth.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/core/services/api-resolver.service.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui2/src/app/main/auth/auth.service.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/bower_components/angular-ui-router/src/urlRouter.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/services/authservice.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/components/custom-directives/pages/ms-navigation.html",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/project/dashboard-project.html",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/dask/dashboards/server/dashboard-server.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/dask/dashboards/project/dashboard-project.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/apps/dashboards/dashboards.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/server/project/dashboard-project.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/server/dashboard-server.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/project/dashboard-project.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/desk/dashboards/analytics/dashboard-analytics.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/ui/src/app/main/dask/dashboards/analytics/dashboard-analytics.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/src/app/index.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/src/app/index.route.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/src/app/main/dashboard/dashboards.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/src/app/main/main.controller.js",
+		"/Users/cl2/src/fusepath/trunk/app/models/Project.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/FinancialsController.php",
+		"/Users/cl2/src/fusepath/trunk/public/v6/gulpfile.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/gulp/server.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/demo/src/app/main/pages/auth/forgot-password/forgot-password.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/src/app/main/sample/sample.module.js",
+		"/Users/cl2/src/fusepath/trunk/public/v6/dist/index.html",
+		"/Users/cl2/src/fusepath/trunk/public/v6/gulp/styles.js",
+		"/Users/cl2/src/fusepath/trunk/app/models/Jira.php",
+		"/Users/cl2/src/fusepath/trunk/public/v4/index.html",
+		"/Users/cl2/src/fusepath/trunk/app/models/MultiTenantScope.php",
+		"/Users/cl2/src/fusepath/trunk/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/User.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/PayrollPeriod.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/Employee.php",
+		"/Users/cl2/src/fusepath/trunk/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/Users/cl2/src/fusepath/trunk/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/CompanyController.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/JiraTimesheet.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/Company.php",
+		"/Users/cl2/src/fusepath/trunk/app/views/emails/addcompany.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/SearchController.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/Dashboard.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/CashflowPlanItemController.php",
+		"/Users/cl2/src/fusepath/trunk/app/controllers/api/CashflowPlanEntryController.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/CashflowPlanEntry.php",
+		"/Users/cl2/src/fusepath/trunk/app/models/MultiTenantTrait.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*/src/app/*/html",
+			"*/src/app/html",
+			"*/src/app/*",
+			"*js",
+			"*php",
+			"*/v4/src/*",
+			"*/v4/*",
+			"*.php",
+			"*/ui/src/*",
+			"*/v4/src/*",
+			"*/v4/src/*.js",
+			"*/v4/*.js",
+			"*/v4/*.html",
+			"*/v3/*",
+			"*/v3/src/*",
+			"*/v4/src/*",
+			"*/ui/src/*",
+			"*/v4/src/*",
+			"*/v4/*",
+			"*/v3/*",
+			"*/v4/*",
+			"*/v4/src/*",
+			"*/v4/*",
+			"*/v3/*",
+			"*/ui/*",
+			"*",
+			"*/v4/src/*",
+			"*/v4/*",
+			"*/v3/*",
+			"*/ui/src/*",
+			"*/ui/*",
+			"*/v4/*",
+			"*/v3/*",
+			"*/v4/src/*",
+			"*/v4/*",
+			"*/v4/src/*",
+			"*/ui2/src/*",
+			"*/ui2/src/",
+			"*/ui2/src/app/*",
+			"*/ui2/src/app/*.js",
+			"*/ui2/*.js",
+			"a/ui2/log.js",
+			"*/ui2/log.js",
+			"*/ui2/*.js",
+			"*/ui/*.js",
+			"*html",
+			"*js",
+			"*html",
+			"*js",
+			"*html",
+			"*js",
+			"*/v6/src/*",
+			"*/v6/*",
+			"*/v6/*.js",
+			"*/v6/*.html",
+			"/v6/*.html",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.css",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.css",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.css",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"ng-scope",
+			"navigationprovider",
+			"styles-reload",
+			"paginate",
+			"current_page",
+			"total",
+			"expect",
+			"object",
+			"msapi",
+			"dashboard.project",
+			"$resource",
+			"Not Authorized",
+			"CompanyUser",
+			"today",
+			"sales",
+			"info-bar",
+			"infobar",
+			"info-bar",
+			"removeinfobar",
+			"ms-info-bar",
+			"vm.login = function",
+			"logout",
+			"currentUSer",
+			"currentUser(",
+			"currentUSer",
+			"john doe",
+			".otherwise",
+			".go(",
+			"$stateProvider.go",
+			"$stateP",
+			".controller(",
+			"app.pages.auth",
+			"pages_auth_login",
+			"access.login",
+			"$stateProvider",
+			"anonymous",
+			".run(",
+			"ui.router",
+			"permission",
+			"PermissionProvider",
+			"only:",
+			".only",
+			"'permission'",
+			"'Permission'",
+			"proxy",
+			"server.middle",
+			"proxy",
+			"dtoptions",
+			"datatable",
+			"units =",
+			"intcurrency",
+			"msThemeOptions",
+			"intcurrency",
+			"intcurrencyfilterprovider",
+			".directive",
+			"intcurrency",
+			"$scope",
+			"displaystatus",
+			"worker_type",
+			"datatab",
+			"theme-options",
+			"request('POST",
+			"request('post",
+			"msapiprovider",
+			"tables.employees",
+			"content@app",
+			"module",
+			".module('app.dashboards.project'",
+			"app.hr.staff",
+			"tables.datatable",
+			"saveItem",
+			"msapiprovider",
+			"msapipro",
+			"alert(\"X\"",
+			"'app.dashboards'",
+			"app.dashboards",
+			"dashboards_project",
+			"ui.router",
+			"loggedin",
+			"anonymous",
+			"role",
+			".factory",
+			"sample",
+			"<title>",
+			"<title>Fuse",
+			"splash-screen",
+			"logo-text",
+			".factory",
+			"'app.core'",
+			".factory",
+			"x",
+			"saveItem",
+			"desk/",
+			"desk.",
+			"loggedin",
+			"logged",
+			"desk.dashboards",
+			"welcome back",
+			"apps.dash",
+			"apps/dash",
+			"dashboardprojectcontroller",
+			"apps.",
+			"apps.dash",
+			"apps/dash",
+			"apps/das",
+			"apps.dash",
+			"pages/auth",
+			"SAMPLE.SAMPLE_NAV",
+			"sample!",
+			"sample",
+			"vendor",
+			"styles/",
+			"/v4/",
+			"/assets",
+			"../assets",
+			"/v3",
+			"function hasRole",
+			"hasRole",
+			"'Root'",
+			"applyglobalscopes",
+			"newquery",
+			"getglobalscopes",
+			"applyglobalscopes",
+			"function all(",
+			"employee::where('ten",
+			"->with",
+			"::with"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"desk.dash",
+			"./assets",
+			"00a2cf",
+			"this.loggedInUser",
+			"m.model.",
+			".legacy",
+			"loaderbar",
+			"entity.",
+			"					<div class=\"col-sm-6 col-lg-4\"><div class=\"form-group\">",
+			"col-lg-8 col-sm-6 control-label",
+			"\"app/img",
+			"app/",
+			"--",
+			"->address->",
+			"adminSettings",
+			"form",
+			"$timesheet->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/v4/src/app/core/directives/ms-navigation/ms-navigation.directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/v4/src/app/main/desk/dashboards/project/dashboard-project.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/v4/src/app/core/services/ms-api.provider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3822,
+								3823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2907.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										203,
+										211
+									],
+									[
+										349,
+										357
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/v3/app/lib/RESTController.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/api/CompanyController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fusepath.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 908.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 442.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,52 @@
+@media print {
+	.header{
+		display:none;
+	}
+	.print-page {
+		page-break-after: always;
+	}
+	.page-content, .page-container {
+		margin:0px;
+		position:static !important;
+	}
+	.page-content .content{
+		padding:0px !important;
+		margin-bottom:0px !important;
+	}
+	html, body {height:auto !important;}
+	.btn{
+		display:none;
+	}
+	.row-fluid [class*="span"]{
+		width:96%;
+	}
+	#main-menu{
+		display:none;
+	}
+	#sidr{
+		display:none;
+	}
+	.content > .row > .col-md-11 {
+		width:100%;
+		margin:0px !important;
+		padding:0px !important;
+	}
+	.content > .row > .col-md-1 {
+		display:none !important;
+	}
+	.page-content {padding:0px !important;height:auto !important;min-height:0 !important;}
+
+#content a:link:after, #content a:visited:after {    
+  content: "" !important;
+  font-size: 90%;   
+}
+
+  a[href]:after {
+    content: "" !important;
+  }
+  abbr[title]:after {
+    content: "" !important;
+  }
+
+
+}
